@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @isabellitcha
-- 👀 I’m interested in ..
-### Boas vindas ao meu perfil :blue_heart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas vindas ao meu perfil 💙
+Meu nome é Isabella Corteze
 
-<!---
-isabellitcha/isabellitcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- ### Você pode entrar em contato comigo 📫
+
+Isabella.kersch@escola.pr.gov.br
+@isa_cortezee 📷
